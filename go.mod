@@ -1,3 +1,3 @@
-module github.com/nodansland/mod-testing
+module github.com/nodansland/favorite
 
 go 1.15
